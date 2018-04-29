@@ -1,1 +1,1 @@
-# GolfGame
+# MiniGolfRush
